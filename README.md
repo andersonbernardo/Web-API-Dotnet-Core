@@ -13,7 +13,7 @@ To know more about how to setup your enviroment visit the [Microsoft .NET Downlo
 
 Install .NET Core 2.0
 
-Access folder C:\[YOUR_DIRECTORY_DOWNLOAD_PROJECT]\apifcamara\2 - Services\ApiFCamara.Services.WebApi
+Access folder C://[PATH_DOWNLOAD_PROJECT]/apifcamara/2 - Services/ApiFCamara.Services.WebApi
 
 RUN `dotnet run`
 
