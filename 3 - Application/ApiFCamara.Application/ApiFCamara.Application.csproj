@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\4 - Domain\ApiFCamara.Domain\ApiFCamara.Domain.csproj" />
+    <ProjectReference Include="..\..\5 - Infrastructure\5.1 - Data\ApiFCamara.Infra.Data\ApiFCamara.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
