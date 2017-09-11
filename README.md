@@ -7,6 +7,10 @@ JWT token authentication
 - The latest SDK and tools can be downloaded from https://dot.net/core. 
 - Read the .NET Core 2.0 [release announcement](https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/) for more information.
 
+- You will need SQL Server (https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+
+Important: Change connection string in file appsettings.json 
+
 To know more about how to setup your enviroment visit the [Microsoft .NET Download Guide](https://www.microsoft.com/net/download)
 
 ## Run CMD
